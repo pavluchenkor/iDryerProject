@@ -31,4 +31,7 @@ https://github.com/jon/coolproject/raw/master/image/
 
 ![img](https://github.com/pavluchenkor/iDryerProject/raw/master/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg)<br>
 
+
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+
 ![img](../master/iDryer%20v2/Hardware/PIR%20Box/IMG_8835-web.jpeg)(https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg?raw=true)<br>

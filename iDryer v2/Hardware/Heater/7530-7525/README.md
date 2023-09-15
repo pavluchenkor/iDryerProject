@@ -10,7 +10,7 @@
 
 Модуль от [@gungrel](https://t.me/gungrel)
 
-# Купить можно тут
+## Вентиляторы и нагреватели купить можно тут
 
 [Вентилятор для модуля на али](https://aliexpress.ru/item/1691802504.html?srcSns=sns_Telegram&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing)
 

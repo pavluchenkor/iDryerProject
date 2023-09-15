@@ -7,4 +7,5 @@
 **[группа в телеграмм](https://t.me/iDryer)**
 
 PCB Design [jlcpcb.com](https://oshwlab.com/svet_team/idryer)
+BOM для самостоятельной сборки [google docs](https://docs.google.com/spreadsheets/d/13WdUZXiJUIk1PS-rFiE8_W3LRcMZVskWiTUnrRRYlAE/edit?usp=sharing)
 

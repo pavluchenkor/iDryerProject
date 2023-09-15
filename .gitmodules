@@ -8,4 +8,4 @@
 [submodule "iDryer v2/Firmware"]
     path = iDryer v2/Firmware
     url = https://github.com/pavluchenkor/iDryerController.git
-    ignore = all
+    ; ignore = all

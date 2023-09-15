@@ -11,7 +11,8 @@
 Модуль от [@gungrel](https://t.me/gungrel)
 
 [Вентилятор для модуля](https://aliexpress.ru/item/1691802504.html?srcSns=sns_Telegram&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing)
-[2 dентиляторf для модуля](https://aliexpress.ru/item/1005002255060284.html?srcSns=sns_Telegram&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing&sku_id=12000019667462231)
+
+[2 вентилятора для модуля](https://aliexpress.ru/item/1005002255060284.html?srcSns=sns_Telegram&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing&sku_id=12000019667462231)
 
 [Нагревательный элемент](https://aliexpress.ru/item/32319632955.html?srcSns=sns_Telegram&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing&sku_id=12000016636424006)
 

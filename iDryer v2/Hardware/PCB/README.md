@@ -8,4 +8,3 @@
 
 PCB Design [jlcpcb.com](https://oshwlab.com/svet_team/idryer)
 
-![img](../master/src_isp/pins.png)<br>

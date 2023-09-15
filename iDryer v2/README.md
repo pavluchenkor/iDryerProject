@@ -7,3 +7,5 @@
 **[группа в телеграмм](https://t.me/iDryer)**
 
 ![img](../master/src_isp/pins.png)<br>
+
+

@@ -1,4 +1,4 @@
-##Изготовление короба из PIR плиты
+## Изготовление короба из PIR плиты
 
 PIR плита является дешевым и доступным материалом для изготовления корпуса сушилки. 
 Плюсы:
@@ -27,7 +27,7 @@ PIR плита является дешевым и доступным матер�
 ![Нарезка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8844-web.jpeg)<br>
 ![Подрезка углов](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8845-web.jpeg)<br>
 ![Склеивание](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8846-web.jpeg)<br>
-![Склеивание](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8846-web.jpeg)<br>
+## Обратите внимание! Задняя стенка склеивается из двух частей в целях оптимизации раскроя
 ![Готовый корпус](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8847-web.jpeg)<br>
 ![Готовый корпус](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg)<br>
 ![Петля](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8841-web.jpeg)<br>

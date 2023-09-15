@@ -22,4 +22,13 @@ PIR плита является дешевым и доступным матер�
 - распечатайте петли, приклейте на тонкий двустронний скотч к корпусу и двери, скрутите саморезами(размер самореза 25-30мм в длину и 4-5 в диаметре) такое соединение работает у меня без нареканий
 
 
-![Нож для резки](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg)<br>
+![Разметка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8843-web.jpeg)<br>
+![Нож для резки](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8839-web.jpeg)<br>
+![Нарезка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8844-web.jpeg)<br>
+![Подрезка углов](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8845-web.jpeg)<br>
+![Склеивание](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8846-web.jpeg)<br>
+![Склеивание](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8846-web.jpeg)<br>
+![Готовый корпус](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8847-web.jpeg)<br>
+![Готовый корпус](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg)<br>
+![Петля](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8841-web.jpeg)<br>
+![Петля](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8840-web.jpeg)<br>

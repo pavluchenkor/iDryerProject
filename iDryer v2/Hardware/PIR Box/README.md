@@ -22,6 +22,7 @@ PIR плита является дешевым и доступным матер�
 - распечатайте петли, приклейте на тонкий двустронний скотч к корпусу и двери, скрутите саморезами(размер самореза 25-30мм в длину и 4-5 в диаметре) такое соединение работает у меня без нареканий
 
 
-![img]([../master/iDryer%20v2/Hardware/PIR%20Box/IMG_8835-web.jpeg](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg?raw=true))<br>
+![img](../master/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg)<br>
 
+![img](../master/iDryer%20v2/Hardware/PIR%20Box/IMG_8835-web.jpeg)<br>
 ![img]([../master/iDryer%20v2/Hardware/PIR%20Box/IMG_8835-web.jpeg)](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg?raw=true)<br>

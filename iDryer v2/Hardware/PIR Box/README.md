@@ -24,5 +24,8 @@ PIR плита является дешевым и доступным матер�
 
 ![img](../master/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg)<br>
 
+
+![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg)<br>
+
 ![img](../master/iDryer%20v2/Hardware/PIR%20Box/IMG_8835-web.jpeg)<br>
 ![img]([../master/iDryer%20v2/Hardware/PIR%20Box/IMG_8835-web.jpeg)](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8837-web.jpeg?raw=true)<br>

@@ -12,5 +12,7 @@ PCB Design [jlcpcb.com](https://oshwlab.com/svet_team/idryer)
 
 BOM для самостоятельной сборки [google docs](https://docs.google.com/spreadsheets/d/13WdUZXiJUIk1PS-rFiE8_W3LRcMZVskWiTUnrRRYlAE/edit?usp=sharing)
 
+### [фото сборки участника группы](https://t.me/iDryer/3103)
+
 ![Разметка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-45-55-web.jpeg)<br>
 ![Разметка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-46-01-web.jpeg)<br>

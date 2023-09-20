@@ -22,14 +22,22 @@ PIR плита является дешевым и доступным матер�
 - проклейте торцы и стыки алюминиевым скотчем
 - распечатайте петли, приклейте на тонкий двустронний скотч к корпусу и двери, скрутите саморезами(размер самореза 25-30мм в длину и 4-5 в диаметре) такое соединение работает у меня без нареканий
 
+!!! note annotate "Файлы для скачивания"
 
-![Разметка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8843-web.jpeg)<br>
-![Нож для резки](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8839-web.jpeg)<br>
-![Нарезка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8844-web.jpeg)<br>
-![Подрезка углов](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8845-web.jpeg)<br>
-![Склеивание](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8846-web.jpeg)<br>
-## Обратите внимание! Задняя стенка склеивается из двух частей в целях оптимизации раскроя
-![Готовый корпус](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8847-web.jpeg)<br>
-![Готовый корпус](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg)<br>
-![Петля](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8841-web.jpeg)<br>
-![Петля](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8840-web.jpeg)<br>
+    :material-download:</i> **[Оснастка ножа.stp](CAD/Оснастка ножа.stp)** - Оснастка ножа.stp
+    
+    :material-download:</i>** [Раскрой.pdf](CAD/Раскрой.pdf)** - Раскрой.pdf
+
+
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8843-web.jpeg){.img-padding}
+![Нож для резки](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8839-web.jpeg){.img-padding}
+![Нарезка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8844-web.jpeg){.img-padding}
+![Подрезка углов](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8845-web.jpeg){.img-padding}
+![Склеивание](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8846-web.jpeg){.img-padding}
+---
+### Обратите внимание! Задняя стенка склеивается из двух частей в целях оптимизации раскроя
+---
+![Готовый корпус](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8847-web.jpeg){.img-padding}
+![Готовый корпус](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg){.img-padding}
+![Петля](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8841-web.jpeg){.img-padding}
+![Петля](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8840-web.jpeg){.img-padding}

@@ -1,6 +1,5 @@
-![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_8882-web.jpeg)<br>
-
 # Модуль весов
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_8882-web.jpeg)
 
 Предназначен для хранения катушек и отслеживания остатка филамента, отображения остатка на экране и сигнализации через сигнальный выход
 
@@ -10,10 +9,25 @@
 
 Модели легко переделать под имеющиеся подшипники
 
-![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9192-web.jpeg)<br>
-![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9187-web.jpeg)<br>
-![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_1144747756-web.jpeg)<br>
-![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_959030623-web.jpeg)<br>
-![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_1483920592-web.jpeg)<br>
-![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9326-web.jpeg)<br>
-![img](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9209-web.jpeg)<br>
+!!! note annotate "Файлы для печати на 3д принтере"
+
+    :material-download:</i> **[Весы узкие.stp](CAD/for%203D%20printing/Весы узкие.stp)** - Весы узкие.stp
+    
+    :material-download:</i>** [Весы.stp](CAD/for%203D%20printing/Весы.stp)** - Весы.stp
+
+!!! note annotate "Файлы для печати на 3д принтере"
+
+    :material-download:</i> **[Модуль_катушкодержателей_с_весами_3_ячейки.igs](CAD/for%20cutting%20metal/Модуль_катушкодержателей_с_весами_3_ячейки.igs)** - Модуль_катушкодержателей_с_весами_3_ячейки.igs
+    
+    :material-download:</i>** [Весы.stp](CAD/for%20cutting%20metal/SpoolHolderWeightModule.STEP)** - Весы.stp
+    
+    [разработано](https://t.me/gungrel)
+
+
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9192-web.jpeg)<br>
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9187-web.jpeg)<br>
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_1144747756-web.jpeg)<br>
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_959030623-web.jpeg)<br>
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_1483920592-web.jpeg)<br>
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9326-web.jpeg)<br>
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9209-web.jpeg)<br>

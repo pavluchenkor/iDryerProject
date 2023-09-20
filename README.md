@@ -4,7 +4,7 @@
 
 Ознакомьтесь с существующими решениями
 
-| ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/img/logoWeb2.png){.img-left} Прошивка|
+| ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/img/logoWeb1.png){.img-left} Прошивка|
 |-|
 | ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-45-55-web.jpeg){.img-left} Файлы печатной платы                                                   |
 | ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/air%20damper/img/camphoto_959030623-web.jpeg){.img-left} Воздушная заслонка                                                   |

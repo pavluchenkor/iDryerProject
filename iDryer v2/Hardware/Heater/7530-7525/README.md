@@ -2,7 +2,7 @@
 
 
 
-**[группа в телеграмм](https://t.me/iDryer)**
+[группа в телеграмм :fontawesome-solid-paper-plane:](https://t.me/iDryer){ .md-button }
 
 ![Разметка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/Heater/7530-7525/img/photo_2023-09-15_15-37-05.jpg)<br>
 

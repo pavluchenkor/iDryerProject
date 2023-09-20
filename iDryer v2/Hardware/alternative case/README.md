@@ -1,6 +1,6 @@
 **iDryer v2**
 
-**[группа в телеграмм](https://t.me/iDryer)**
+[группа в телеграмм :fontawesome-solid-paper-plane:](https://t.me/iDryer){ .md-button }
 
 https://t.me/iDryer/2175
 

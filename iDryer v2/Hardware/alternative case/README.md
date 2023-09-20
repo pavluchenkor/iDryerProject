@@ -1,6 +1,6 @@
 # Корпус сушилки из EPP
 
-![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/alternative%20case/img/alternativeCase1.png){.img-left}
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/alternative%20case/img/alternativeCase1.png){.img-left-50}
 
 Обсуждение тут
 

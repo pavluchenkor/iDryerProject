@@ -2,8 +2,8 @@
 
 скачайте и распечатайте два файла (разработано https://t.me/gungrel)
 
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/Assembly_ebox.jpg){.img-left}
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/screen_stand.jpg){.img-left}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/Assembly_ebox.jpg){.img-left-50}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/screen_stand.jpg){.img-left-50}
 
 ## Файлы
 

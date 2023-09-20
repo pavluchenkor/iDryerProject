@@ -6,37 +6,12 @@
 
 |![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/air%20damper/img/camphoto_959030623-web.jpeg){.img-left}Воздушная заслонка|
 |-|
-|![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/air%20damper/img/camphoto_959030623-web.jpeg){.img-left}Ознакомьтесь с существующими решениями Ознакомьтесь с существующими решениями Ознакомьтесь с существующими решениями|
-
-
-<br>
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
-
-
-
-![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
-
-| ![Alt name of image](/path-to-image.png) ||
-|-|-|
-
-
-<figure markdown>
-  ![Image title](https://dummyimage.com/600x400/){ width="300" }
-  <figcaption>Image caption</figcaption>
-</figure>
-
-
------------------------------------------------------------
-![img](https://raw.githubusercontent.com/pavluchenkor/iDryerController/master/src_isp/img001.png){.img-left} Table multiline text bla bla bla bla
-                        bla bla bla bla bla bla bla ... the
-                        blank line below is important 
-
-----------------------------------------------------------------
-
+|![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/alternative%20case/img/alternativeCase1.png){.img-left}Коробка из EPP, относительно ударопрочный и теплоизоляционный материал|
+|![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Heater/7530-7525/img/photo_2023-09-15_15-37-05.jpg){.img-left} Сборка кулера 7530 и нагревательного элемента|
+|![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-45-55-web.jpeg){.img-left} Файлы печатной платы|
+|![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/Assembly_ebox.jpg){.img-left} Корпус контроллера, печатные детали|
+|![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg){.img-left} Раскрой и инструкция по сборке корпуса из PIR плиты|
+|![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_8882-web.jpeg){.img-left} Держатель катушек совмещенный с модулем весов|
 
 
 

@@ -12,5 +12,5 @@ BOM для самостоятельной сборки [google docs](https://doc
 
 ### [фото сборки участника группы](https://t.me/iDryer/3103)
 
-![Разметка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-45-55-web.jpeg)<br>
-![Разметка](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-46-01-web.jpeg)<br>
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-45-55-web.jpeg){.img-left }
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-46-01-web.jpeg){.img-left }

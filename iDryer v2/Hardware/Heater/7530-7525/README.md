@@ -17,3 +17,5 @@
 [2 вентилятора для модуля на али](https://aliexpress.ru/item/1005002255060284.html?srcSns=sns_Telegram&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing&sku_id=12000019667462231)
 
 [Нагревательный элемент на али](https://aliexpress.ru/item/32319632955.html?srcSns=sns_Telegram&businessType=ProductDetail&spreadType=socialShare&tt=MG&utm_medium=sharing&sku_id=12000016636424006)
+
+[Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/Heater/7530-7525) 

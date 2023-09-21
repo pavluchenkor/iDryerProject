@@ -16,3 +16,4 @@
 
 
 
+[Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/alternative%20case)

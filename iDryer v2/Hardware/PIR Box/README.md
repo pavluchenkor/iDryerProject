@@ -41,3 +41,5 @@ PIR плита является дешевым и доступным матер�
 ![Готовый корпус](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg){.img-padding}
 ![Петля](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8841-web.jpeg){.img-padding}
 ![Петля](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8840-web.jpeg){.img-padding}
+
+[Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/PIR%20Box) 

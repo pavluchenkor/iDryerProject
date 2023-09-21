@@ -31,3 +31,5 @@
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_1483920592-web.jpeg)<br>
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9326-web.jpeg)<br>
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9209-web.jpeg)<br>
+
+[Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/Scale%20module) 

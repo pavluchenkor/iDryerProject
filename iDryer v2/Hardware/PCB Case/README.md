@@ -12,3 +12,5 @@
     :material-download:</i> **[iDryer v1 prototype](CAD/Assembly_ebox.stp)** - Корпус
     
     :material-link:</i>** [iDryer v2](CAD/screen_stand.stp)** - пороставка экрана
+
+[Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/blob/main/iDryer%20v2/Hardware/alternative%20case/) 

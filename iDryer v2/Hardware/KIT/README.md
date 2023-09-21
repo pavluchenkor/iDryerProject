@@ -4,23 +4,19 @@
 
 KIT набор включает в себя все необходимое для самостоятельной сборки контоллера iDryer. Все элементы выводные и крупные, удобны для сборки новичками и продвинутыми любителями.
 
-![KIT](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/img/IMG_20230921_230123.jpg){.img-left}
-
-##Соcтав
+![KIT](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/KIT/img/IMG_20230921_230123.jpg)
 
 
-!!! note annotate "Файлы проектов на гитхаб(1)"
+!!! info annotate "Соcтав KIT-а"
 
-    :material-link:</i> **[iDryer v1 prototype](https://github.com/pavluchenkor/iDryer)** - прототип нынешней сушилки, очень дешевый и экономный способ сушки пластика
-    
-    :material-link:</i>** [iDryer v2](https://github.com/pavluchenkor/iDryerController)** - текущая версия сушилки открытым исходным кодом. Репозиторий содержит прошивку, оригинальные файлы проекта
+    - печатная плата + элементы для сборки 
+    - OLED дисплей
+    - энкодер
+    - датчик температуры и влажности BME 280
+    - термистор Ntc100k b3950
+    - Arduino nano с бутлоадером MiniCore и прошивкой
 
-    :material-link:</i>** [iDryer v2](https://github.com/pavluchenkor/iDryerProject)** - файлы, описания, инструкции
 
-    Файлы проектов содержащие прошивку, модели и т.п. размещены на github.
 
-1.  :man_raising_hand: Файлы проектов содержащие прошивку, модели и т.п. размещены на github.
-2.  :man_raising_hand: Действующая версия
-
-[группа в телеграмм :fontawesome-solid-paper-plane:](https://t.me/iDryer){ .md-button }
+[Зказать :material-basket-plus:](https://t.me/gungrel){ .md-button }
 

@@ -24,5 +24,4 @@
 
     :material-download:</i> **[air_damper_front.stl](CAD/air_damper_front.stl)** - air_damper_front.stl
     
-iDryerV2/Hardware/iDryerProject/iDryer v2/Hardware/air damper/CAD/air_damper_diffuser.stl
 [разработано](https://t.me/gungrel)

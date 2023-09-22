@@ -1,4 +1,4 @@
-# KIT
+# KIT iDryer v2
 
 ![logo](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/img/logoWeb1.png){.img-left}
 
@@ -7,7 +7,7 @@ KIT набор включает в себя все необходимое для
 ![KIT](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/KIT/img/IMG_20230921_230123.jpg)
 
 
-!!! info annotate "Соcтав KIT-а"
+!!! note annotate "Cостав KIT-а"
 
     - печатная плата + элементы для сборки 
     - OLED дисплей

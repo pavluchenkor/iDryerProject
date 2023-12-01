@@ -41,11 +41,11 @@
     [разработано](https://t.me/gungrel)
 
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/Sasha1.jpg){.img-left-50}
-![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/Sasha2.jpg){.img-left-50}<br>
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/Sasha2.jpg){.img-left-50}<br><br>
 
 !!! quote annotate "Модель для фрезеровки"
 
-    :material-download:</i> **[Модуль_катушкодержателей_с_весами_3_ячейки.igs](CAD/for%20cutting%20metal/Sasha.STEP)**
+    :material-download:</i> **[Sasha.STEP](CAD/for%20cutting%20metal/Sasha.STEP)**
       
     [разработано](https://t.me/iDryer/9446)
 

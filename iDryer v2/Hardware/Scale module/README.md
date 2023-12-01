@@ -23,20 +23,30 @@
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9192-web.jpeg)<br>
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9187-web.jpeg)<br>
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_1144747756-web.jpeg)<br>
-![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_959030623-web.jpeg)<br>
-![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_1483920592-web.jpeg)<br>
+<!-- ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_959030623-web.jpeg)<br>
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/camphoto_1483920592-web.jpeg)<br> -->
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9326-web.jpeg)<br>
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/IMG_9209-web.jpeg)<br>
 
-## Металлический вариант
-Разработан вариант из металла. Такой вариант выдержит нагрев и более 100 градусов.
+## Металлические варианты
+ Участниками разработано несколько вариантов из металла. 
+ Такие катушкодержатели выдержит любой нагрев.
 
-!!! quote annotate "Файлы для лазерной резки"
+!!! quote annotate "Модель для лазерной резки и гибки"
 
     :material-download:</i> **[Модуль_катушкодержателей_с_весами_3_ячейки.igs](CAD/for%20cutting%20metal/Модуль_катушкодержателей_с_весами_3_ячейки.igs)**
     
     :material-download:</i>** [Весы.stp](CAD/for%20cutting%20metal/SpoolHolderWeightModule.STEP)**
     
     [разработано](https://t.me/gungrel)
+
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/Sasha1.jpg){.img-left-50}
+![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/Sasha2.jpg){.img-left-50}<br>
+
+!!! quote annotate "Модель для фрезеровки"
+
+    :material-download:</i> **[Модуль_катушкодержателей_с_весами_3_ячейки.igs](CAD/for%20cutting%20metal/Sasha.STEP)**
+      
+    [разработано](https://t.me/iDryer/9446)
 
 [Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/Scale%20module) 

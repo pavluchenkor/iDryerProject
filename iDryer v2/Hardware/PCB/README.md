@@ -11,7 +11,7 @@
 ### [фото сборки участника группы](https://t.me/iDryer/3103)
 
 ![печатная плата](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-45-55-web.jpeg){.img-left-50}
-![печатная плата](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-46-01-web.jpeg){.img-left-50}
+![печатная плата](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/photo_2023-09-15_15-46-01-web.jpeg){.img-left-50}<br>
 
 
 [группа в телеграмм :fontawesome-solid-paper-plane:](https://t.me/iDryer){ .md-button }

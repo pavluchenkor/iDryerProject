@@ -10,7 +10,23 @@ PIR плита является дешевым и доступным матер�
 
 
 ## Минусы
-- достаточно легко сжать или деформировать 
+- можно деформировать при ударе 
+
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box1.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box2.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box3.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box4.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box5.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box6.jpg){.img-padding}
+
+!!! quote annotate "Полная модель корпуса"
+
+    :material-download:</i> **[PIR_box_assembly.stp](CAD/PIR_box_assembly.stp)** - наиболее дешевым из оптимальных мтериалов является ABS CF10, он прост в печати, не требует камеры
+    и прекрасно стправляется с рабочей температурой сушилки. Именно из ABS CF10 распечатаны и катушкодержатели и даже воздуховод к которому пркреплен радиатор обогрева.
+
+!!! warning annotate "Важно"
+
+    Все детали находящиеся внтури корпуса печатаются из материалов выдерживающих нагревание 100С и выше.
 
 ## Изготовление (время ~60 минут)
 - ознакомьтесь изображениями

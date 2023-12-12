@@ -12,12 +12,12 @@ PIR плита является дешевым и доступным матер�
 ## Минусы
 - можно деформировать при ударе 
 
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box1.jpg){.img-padding}
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box2.jpg){.img-padding}
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box3.jpg){.img-padding}
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box4.jpg){.img-padding}
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box5.jpg){.img-padding}
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box6.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box1.jpg)
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box2.jpg)
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box3.jpg)
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box4.jpg)
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box5.jpg)
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box6.jpg)
 
 !!! quote annotate "Полная модель корпуса"
 

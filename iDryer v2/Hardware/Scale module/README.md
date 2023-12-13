@@ -38,7 +38,7 @@
     
     :material-download:</i>** [Весы.stp](CAD/for%20cutting%20metal/SpoolHolderWeightModule.STEP)**
     
-    [разработано](https://t.me/gungrel)
+    [разработано @gungrel](https://t.me/gungrel)
 
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/Sasha1.jpg){.img-left-50}
 ![img](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/Scale%20module/img/Sasha2.jpg){.img-left-50}<br><br>
@@ -47,6 +47,6 @@
 
     :material-download:</i> **[Sasha.STEP](CAD/for%20cutting%20metal/Sasha.STEP)**
       
-    [разработано](https://t.me/iDryer/9446)
+    [разработано Саша](https://t.me/iDryer/9446)
 
 [Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/Scale%20module) 

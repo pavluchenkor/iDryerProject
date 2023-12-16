@@ -24,4 +24,4 @@
 
     :material-download:</i> **[air_damper_front.stl](CAD/air_damper_front.stl)** - air_damper_front.stl
     
-[разработано](https://t.me/gungrel)
+[разработано @gungrel](https://t.me/gungrel)

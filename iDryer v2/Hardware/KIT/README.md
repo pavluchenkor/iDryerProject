@@ -2,18 +2,12 @@
 
 ![logo](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/img/logoWeb1.png){.img-left}
 
-KIT набор iDryer v2.1 включает необходимые для самостоятельной сборки контоллера iDryer элементы, печатную плату, экран, энкодер и датчики. Все элементы выводные и крупные, удобны для сборки новичками и продвинутыми любителями.
-KIT набор состоит из двух компонентов и может приобретаться как:
-
-- полный набор (плата контроллера и плата весов)
-- только плата контроллре
-- только плата весов
-  
-Как в собраном виде так и в виде набра для самостоятельной сборки.
+KIT набор iDryer v2 включает необходимые для самостоятельной сборки контоллера iDryer элементы, печатную плату, экран, энкодер и датчики. Все элементы выводные и крупные, удобны для сборки новичками и продвинутыми любителями.
 <br>
-![KIT](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/KIT/img/KIT.jpg)
+![KIT](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/KIT/img/IMG_20230921_230123.jpg){.img-padding}
 
-!!! note annotate "Cостав KIT полный"
+
+!!! note annotate "Cостав KIT-а"
 
     - печатная плата
     - элементы для сборки 
@@ -21,7 +15,7 @@ KIT набор состоит из двух компонентов и может
     - энкодер
     - датчик температуры и влажности BME 280
     - термистор Ntc100k b3950
-    - Arduino nano с прошивкой
+    - Arduino nano с бутлоадером MiniCore и прошивкой
 
 
 

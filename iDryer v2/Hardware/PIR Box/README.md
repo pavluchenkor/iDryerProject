@@ -12,16 +12,16 @@ PIR плита является дешевым и доступным матер�
 ## Минусы
 - можно деформировать при ударе 
 
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box1.jpg)
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box2.jpg)
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box3.jpg)
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box4.jpg)
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box5.jpg)
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box6.jpg)
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box1.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box2.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box3.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box4.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box5.jpg){.img-padding}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box6.jpg){.img-padding}
 
 !!! quote annotate "Полная модель корпуса"
 
-    :material-download:</i> **[PIR_box_assembly_r2_1.stp](CAD/PIR_box_assembly_r2_1.stp)** - наиболее дешевым из оптимальных материалов является ABS CF10, он прост в печати, не требует камеры
+    :material-download:</i> **[PIR_box_assembly.stp](CAD/PIR_box_assembly.stp)** - наиболее дешевым из оптимальных материалов является ABS CF10, он прост в печати, не требует камеры
     и прекрасно справляется с рабочей температурой сушилки. Именно из ABS CF10 распечатаны и катушкодержатели и даже воздуховод к которому пркреплен радиатор обогрева.
 
 !!! warning annotate "Важно"
@@ -34,8 +34,8 @@ PIR плита является дешевым и доступным матер�
 - распечатайте "Оснастка ножа.stp" 
 - разметьте лист
 - нарежьте детали
-- срежьте фаски где это необходимо
-- склейте (для склеивания подходит специальный клей-пена для PIR плит или любой клей на полуиретановой основе)
+- срежите фаски где это необходимо
+- склейте (для скливания подходит специальный клей-пена для PIR плит или любой клей на полуиретановой основе)
 - проклейте торцы и стыки алюминиевым скотчем
 - распечатайте петли, приклейте на тонкий двустронний скотч к корпусу и двери, скрутите саморезами(размер самореза 25-30мм в длину и 4-5 в диаметре) такое соединение работает у меня без нареканий
 

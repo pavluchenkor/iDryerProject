@@ -12,13 +12,41 @@ PIR плита является дешевым и доступным матер�
 ## Минусы
 - можно деформировать при ударе 
 
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box1.jpg)
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box1.jpg" alt="iDryer сборка корпуса">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box2.jpg" alt="iDryer сборка корпуса">
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box3.jpg" alt="iDryer сборка корпуса">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box4.jpg" alt="iDryer сборка корпуса">
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box5.jpg" alt="iDryer сборка корпуса">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box6.jpg" alt="iDryer сборка корпуса">
+  </div>
+</div>
+<!-- 
+
+<!-- ![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box1.jpg)
 ![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box2.jpg)
 ![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box3.jpg)
 ![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box4.jpg)
 ![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box5.jpg)
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box6.jpg)
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/iDryer2_1.jpg)
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/box6.jpg) -->
+![iDryer](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/iDryer2_1.jpg)
 
 !!! quote annotate "Полная модель корпуса"
 
@@ -50,7 +78,52 @@ PIR плита является дешевым и доступным матер�
 
     Обратите внимание! Задняя стенка склеивается из двух частей в целях оптимизации раскроя
 
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8843-web.jpeg){.img-padding}
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8843-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8839-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8844-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8845-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8846-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8847-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8841-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8840-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8841-web.jpeg" alt="iDryer сборка корпуса">
+  </div>
+</div>
+
+<!-- ![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8843-web.jpeg){.img-padding}
 
 ![Нож для резки](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8839-web.jpeg){.img-padding}
 
@@ -60,12 +133,12 @@ PIR плита является дешевым и доступным матер�
 
 ![Склеивание](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8846-web.jpeg){.img-padding}
 
-![Готовый корпус](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8847-web.jpeg){.img-padding}
+![Готовый корпус](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8847-web.jpeg){.img-padding} -->
 
-![Готовый корпус](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg){.img-padding}
+<!-- ![Готовый корпус](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8848-web.jpeg){.img-padding}
 
 ![Петля](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8841-web.jpeg){.img-padding}
 
-![Петля](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8840-web.jpeg){.img-padding}
+![Петля](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box/img/IMG_8840-web.jpeg){.img-padding} -->
 
 [Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/PIR%20Box) 

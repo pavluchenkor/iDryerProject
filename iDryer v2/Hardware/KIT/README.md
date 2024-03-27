@@ -25,5 +25,5 @@ KIT набор состоит из двух компонентов и может
 
 
 
-[Зказать :material-basket-plus:](https://t.me/gungrel){ .md-button }
+[Зказать :material-basket-plus:](https://store.idryer.org/){ .md-button }
 

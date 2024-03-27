@@ -2,8 +2,17 @@
 
 скачайте и распечатайте два файла [разработано @gungrel](https://t.me/gungrel)
 
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/Assembly_ebox.jpg){.img-left-50}
-![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/screen_stand.jpg){.img-left-50}
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/Assembly_ebox.jpg" alt="катушкодержатель">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/screen_stand.jpg" alt="катушкодержатель">
+  </div>
+</div>
+
+<!-- ![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/Assembly_ebox.jpg){.img-left-50}
+![Разметка](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB%20Case/img/screen_stand.jpg){.img-left-50} -->
 
 ## Файлы
 

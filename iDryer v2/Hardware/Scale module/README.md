@@ -85,6 +85,10 @@
     Минимальная полка - 14мм
     Коэф.К - 0,44
   
+<div class="video-wrapper">
+  <iframe width="1280" height="720" src="https://www.youtube.com/embed/iAZZLo_1NXo?si=j_zRWY-Wy7RiXFXJ" frameborder="0" allowfullscreen></iframe>
+</div>
+
 !!! quote annotate "Ремикс [от @Kekht](https://t.me/Kekht) на раннюю версию держателя [от @gungrel](https://t.me/gungrel)"
     
     :material-download:</i>** [SpoolHolderWeightModule_v1_3_2.STEP](CAD/for%20cutting%20metal/[SpoolHolderWeightModule_v1_3_2.STEP])
@@ -92,6 +96,7 @@
     :material-download:</i>** [Rollers_Holder_v1_3.DXF](CAD/for%20cutting%20metal/[Rollers_Holder_v1_3.DXF])
     
     :material-download:</i>** [Base_Single_v1_2.DXF](CAD/for%20cutting%20metal/[Base_Single_v1_2.DXF])
+
 
 
 ### Вариант от Саши

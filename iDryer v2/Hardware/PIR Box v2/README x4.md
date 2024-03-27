@@ -31,9 +31,9 @@
 
 !!! quote annotate "Раскрой"
 
-    :material-download:</i> **[раскрой х4.pdf](docs/раскрой х4.pdf)**
+    :material-download:</i> **[раскрой х4.pdf](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v2/docs/раскрой%20х4.pdf)**
 
-    :material-download:</i> **[раскрой х4 на один лист.pdf](docs/раскрой х4 на один лист.pdf)**
+    :material-download:</i> **[раскрой х4 на один лист.pdf](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v2/docs/раскрой%20х4%20на%20один%20лист.pdf)**
 
 
 !!! warning annotate "Важно"

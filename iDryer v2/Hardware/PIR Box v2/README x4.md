@@ -42,4 +42,4 @@
 
     Теплоизоляция воздуховода в проекте x4 представлена для ознакомления, можно использовать в таком же виде или оклеить воздуховод любым теплоизоляционным материалом. Если этого не сделать, скорость прогрева будет снижена, а потребление электричества увеличится значительно!
 
-[Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/PIR%20Box%v2) 
+[Contributing :material-file-edit:](https://github.com/pavluchenkor/iDryerProject/tree/main/iDryer%20v2/Hardware/PIR%20Box%20v2) 

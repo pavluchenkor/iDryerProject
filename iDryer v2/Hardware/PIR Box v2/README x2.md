@@ -32,7 +32,7 @@
 
 !!! quote annotate "Раскрой"
 
-    :material-download:</i> **[раскрой х2.pdf](doc/раскрой х2.pdf)**
+    :material-download:</i> **[раскрой х2.pdf](docs/раскрой х2.pdf)**
 
 
 !!! warning annotate "Важно"

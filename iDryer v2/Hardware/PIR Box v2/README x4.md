@@ -29,6 +29,12 @@
     
     Материал печатных деталей - ABS или ABS CF
 
+!!! quote annotate "Раскрой"
+
+    :material-download:</i> **[раскрой х4.pdf](doc/раскрой х4.pdf)**
+
+    :material-download:</i> **[раскрой х4 на один лист.pdf](doc/раскрой х4 на один лист.pdf)**
+
 
 !!! warning annotate "Важно"
 

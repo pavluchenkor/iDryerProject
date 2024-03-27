@@ -30,6 +30,10 @@
 
     Материал печатных деталей - ABS или ABS CF
 
+!!! quote annotate "Раскрой"
+
+    :material-download:</i> **[раскрой х2.pdf](doc/раскрой х2.pdf)**
+
 
 !!! warning annotate "Важно"
 

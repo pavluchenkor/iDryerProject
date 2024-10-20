@@ -154,6 +154,13 @@
     <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/IMG_1446.jpg" alt="iDryer сборка контроллера сушилки филамента">
   </div>
 </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/IMG_3080.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/IMG_1446.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+</div>
 
 <div class="image-container">
   <div class="custom-image">

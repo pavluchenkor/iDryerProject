@@ -150,18 +150,17 @@
   <div class="custom-image">
     <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/IMG_1445.jpg" alt="iDryer сборка контроллера сушилки филамента">
   </div>
-  <div class="custom-image">
+  <!-- <div class="custom-image">
     <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/IMG_1446.jpg" alt="iDryer сборка контроллера сушилки филамента">
-  </div>
-</div>
+  </div> -->
   <div class="custom-image">
     <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/IMG_3080.jpg" alt="iDryer сборка контроллера сушилки филамента">
   </div>
-  <div class="custom-image">
-    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/IMG_1446.jpg" alt="iDryer сборка контроллера сушилки филамента">
-  </div>
 </div>
 
+###Монтаж экрана и энкодера на плату
+
+так нужно делать когда контроллер собирается в отдельном корпусе
 <div class="image-container">
   <div class="custom-image">
     <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/IMG_1447.jpg" alt="iDryer сборка контроллера сушилки филамента">

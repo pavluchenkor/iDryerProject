@@ -1,11 +1,63 @@
 # Текущая версия
 
-![iDryer x2](https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/img/logoWeb1.png){.img-left}
+
 
 <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2509.jpg" alt="iDryer x2">
 
+## Корпус
 
 Материал корпуса - фрезерованные PIR панели
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2916.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2917.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2918.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2919.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2920.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2921.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2922.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2923.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_29124.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2925.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2926.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2927.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_2928.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+  <div class="custom-image">
+    <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PIR%20Box%20v3/img/IMG_29129.jpg" alt="iDryer сборка контроллера сушилки филамента">
+  </div>
+</div>
 
 Материал печатных деталей - ABS или ABS CF
 

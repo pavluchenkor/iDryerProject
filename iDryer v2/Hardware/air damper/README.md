@@ -15,7 +15,7 @@
 
 предназначена для регулярного проветривания камеры
 
-Потребется покупка сервопривода [SG90 9g](https://aliexpress.ru/item/32962841728.html?sku_id=66666348213&spm=.search_results.16.6c0b4aa6tK2QUa)
+Потребуется покупка сервопривода [SG90 9g](https://aliexpress.ru/item/32962841728.html?sku_id=66666348213&spm=.search_results.16.6c0b4aa6tK2QUa)
 
 
 !!! quote annotate "CAD файлы [от @gungrel](https://t.me/gungrel)"

@@ -10,15 +10,14 @@
 - спирт для промывки платы после пайки
 
 !!! warning "Перед сборкой нобходимо выставить напряжение 5.1В на выходе преобразователя MP1584 и перепаять резистор выбора частоты обновления на hx711"
-
-  <div class="image-container">
-    <div class="custom-image">
-        <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/163940.png" alt="iDryer сборка контроллера сушилки филамента">
+    <div class="image-container">
+      <div class="custom-image">
+          <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/163940.png" alt="iDryer сборка контроллера сушилки филамента">
+      </div>
+      <div class="custom-image">
+        <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/164710.png" alt="iDryer сборка контроллера сушилки филамента">
+      </div>
     </div>
-    <div class="custom-image">
-      <img src="https://raw.githubusercontent.com/pavluchenkor/iDryerProject/main/iDryer%20v2/Hardware/PCB/img/164710.png" alt="iDryer сборка контроллера сушилки филамента">
-    </div>
-  </div>
 
 
 ###  Последовательность сборки
